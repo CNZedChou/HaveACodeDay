@@ -19,8 +19,9 @@ Consider an angle. At the point the lines originate the distance between them is
 
 | ID   |                         Description                          | Solution | Tag  | Date            |
 | ---- | :----------------------------------------------------------: | :------: | :--- | --------------- |
-| BS-1 | [Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers) |           | #EASY     | Mon 25 Apr 2022 |
+| BS-1 | [Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers) | [Cpp](./binarysearch/bs_1.md) | # EASY # HashTable | Mon 25 Apr 2022 |
 | LC-398 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/) |  | #Medium | Mon 25 Apr 2022 |
+| BS-2 | [Palindromic Integer](https://binarysearch.com/problems/Palindromic-Integer) |  | # EASY | Tue 26 Apr 2022 |
 
 <span id="weekroom"></span>
 
@@ -37,6 +38,6 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify 
+> Last Modify Mon 25 Apr 2022 09:19:34 PM CST
 
 

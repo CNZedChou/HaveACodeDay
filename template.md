@@ -1,7 +1,7 @@
 # [title](url)
 
-- 难度：{difficulty}
-- 标签：
+- Level：{difficulty}
+- Tags：
 
 ## Idea
 
