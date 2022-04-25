@@ -1,4 +1,4 @@
-Have A Code Day
+# Have A Code Day
 Consider an angle. At the point the lines originate the distance between them is fairly small. Extrapolate those lines and the further you get away from the originating point the distance between those lines grows. Nudge one line out further and the distance grows, negligible at first but the further away from that center point the distance is even greater.
 
 💻 Come and Have A Code Day
@@ -17,17 +17,23 @@ Consider an angle. At the point the lines originate the distance between them is
 
 <span id="problem"></span>
 
-ID	Description	Solution	Tag	Date
-BS-1	Sum of Two Numbers			Mon 25 Apr 2022
+| ID   |                         Description                          | Solution | Tag  | Date            |
+| ---- | :----------------------------------------------------------: | :------: | :--- | --------------- |
+| BS-1 | [Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers) |          |      | Mon 25 Apr 2022 |
+
 <span id="weekroom"></span>
 
-ID	Description	Solution	Tag	Date
-TBC	TBC	TBC	TBC	TBC
+| ID   |                         Description                          | Solution | Tag  | Date            |
+| ---- | :----------------------------------------------------------: | :------: | :--- | --------------- |
+| TBC | TBC | TBC          | TBC      | TBC |
 <span id="tools"></span>
 
-ID	Description	Date
-1	Clash On Linux	Mon 25 Apr 2022
-2	No Pwd SSH	Mon 25 Apr 2022
-Last Modify 
+
+| ID | Description | Date |
+| ---- | :-------------------: | ----------------|
+| 1 | [No Pwd SSH](./NoPwdSSH.md) | Mon 25 Apr 2022 |
+
+
+> Last Modify 
 
 
