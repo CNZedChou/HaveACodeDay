@@ -7,7 +7,7 @@ Consider an angle. At the point the lines originate the distance between them is
 
 🎯 Each Week 4 in 10 minutes, pick 4 of 7 problems Randomly that week for review 
 
-🔖 [Template](.template.md) document for Problems and Solutions
+🔖 [Template](template.md) document for Problems and Solutions
 
 📋 [Problems Table](#problem)
 
