@@ -27,5 +27,10 @@ bool solve(int num) {
 
 ```
 
-
-
+### Implementation - Python3
+``` Python3
+class Solution:
+    def solve(self, num):
+        return str(num)==str(num)[::-1]
+// Lianz_lit
+```
