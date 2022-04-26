@@ -29,4 +29,17 @@ bool solve(vector<int>& nums, int k) {
 // ZedChou
 ```
 
-
+### Implementation - Python3
+``` Python3
+class Solution:
+    def solve(self, nums, k):
+        dic={}
+        for i in range(len(nums)):
+            ans = k -nums[i]
+            if nums[i] in dic:
+                return True
+            else:
+                dic[ans] = i
+        return False        
+// Lianz_lit
+```
