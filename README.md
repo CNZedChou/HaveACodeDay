@@ -19,12 +19,12 @@ Consider an angle. At the point the lines originate the distance between them is
 
 | ID   |                         Description                          | Solution | Tag  | Date            |
 | ---- | :----------------------------------------------------------: | :------: | :--- | --------------- |
-| BS-1 | [Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers) | [Cpp](./binarysearch/bs_1.md) | # Easy # HashTable | Mon 25 Apr 2022 |
-| LC-398 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/) | [Cpp](./leetcode/lc_398.md) | # Medium | Mon 25 Apr 2022 |
-| BS-5 | [Palindromic Integer](https://binarysearch.com/problems/Palindromic-Integer) | [Cpp](./binarysearch/bs_5.md) | # Easy | Tue 26 Apr 2022 |
+| BS-1 | [Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers) | [Cpp/Python](./binarysearch/bs_1.md) | # Easy # HashTable | Mon 25 Apr 2022 |
+| LC-398 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/) | [Cpp/Python](./leetcode/lc_398.md) | # Medium | Mon 25 Apr 2022 |
+| BS-5 | [Palindromic Integer](https://binarysearch.com/problems/Palindromic-Integer) | [Cpp/Python](./binarysearch/bs_5.md) | # Easy | Tue 26 Apr 2022 |
 | LC-883 | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) | [Cpp](./leetcode/lc_883.md) | # Easy | Tue 26 Apr 2022 |
-| BS-16 | [3-6-9](https://binarysearch.com/problems/3-6-9) |  | # EASY | Wed 27 Apr 2022 |
-| LC-417 | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) |  | #Medium | Wed 26 Apr 2022 |
+| BS-16 | [3-6-9](https://binarysearch.com/problems/3-6-9) | [Cpp](./binarysearch/bs_16.md) | # EASY | Wed 27 Apr 2022 |
+| LC-417 | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | [Cpp](./leetcode/lc_417.md) | #Medium | Wed 27 Apr 2022 |
 
 <span id="weekroom"></span>
 
@@ -41,6 +41,6 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify：Tue 26 Apr 2022 09:46:20 AM CST
+> Last Modify：Wed 27 Apr 2022 09:35:56 AM CST
 
 
