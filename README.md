@@ -25,7 +25,7 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-883 | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) | [Cpp](./leetcode/lc_883.md) | # Easy | Tue 26 Apr 2022 |
 | BS-16 | [3-6-9](https://binarysearch.com/problems/3-6-9) | [Cpp](./binarysearch/bs_16.md) | # Easy | Wed 27 Apr 2022 |
 | LC-417 | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | [Cpp](./leetcode/lc_417.md) | #Medium | Wed 27 Apr 2022 |
-| BS-18 | [Run-Length Encoding](https://binarysearch.com/problems/Run-Length-Encoding) |  } # Easy | Thu 28 Apr 2022 |
+| BS-18 | [Run-Length Encoding](https://binarysearch.com/problems/Run-Length-Encoding) |  | # Easy | Thu 28 Apr 2022 |
 | LC-905 | [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) |  | # Easy | Thu 28 Apr 2022 |
 
 <span id="weekroom"></span>
