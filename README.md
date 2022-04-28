@@ -22,9 +22,9 @@ Consider an angle. At the point the lines originate the distance between them is
 | BS-1 | [Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers) | [Cpp/Python](./binarysearch/bs_1.md) | # Easy # HashTable | Mon 25 Apr 2022 |
 | LC-398 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/) | [Cpp/Python](./leetcode/lc_398.md) | # Medium | Mon 25 Apr 2022 |
 | BS-5 | [Palindromic Integer](https://binarysearch.com/problems/Palindromic-Integer) | [Cpp/Python](./binarysearch/bs_5.md) | # Easy | Tue 26 Apr 2022 |
-| LC-883 | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) | [Cpp](./leetcode/lc_883.md) | # Easy | Tue 26 Apr 2022 |
-| BS-16 | [3-6-9](https://binarysearch.com/problems/3-6-9) | [Cpp](./binarysearch/bs_16.md) | # Easy | Wed 27 Apr 2022 |
-| LC-417 | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | [Cpp](./leetcode/lc_417.md) | #Medium | Wed 27 Apr 2022 |
+| LC-883 | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) | [Cpp/Python]](./leetcode/lc_883.md) | # Easy | Tue 26 Apr 2022 |
+| BS-16 | [3-6-9](https://binarysearch.com/problems/3-6-9) | [Cpp/Python]](./binarysearch/bs_16.md) | # Easy | Wed 27 Apr 2022 |
+| LC-417 | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | [Cpp/Python]](./leetcode/lc_417.md) | #Medium | Wed 27 Apr 2022 |
 | BS-18 | [Run-Length Encoding](https://binarysearch.com/problems/Run-Length-Encoding) | [Cpp](./binarysearch/bs_18.md) | # Easy | Thu 28 Apr 2022 |
 | LC-905 | [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | [Cpp](./leetcode/lc_905.md) | # Easy | Thu 28 Apr 2022 |
 
