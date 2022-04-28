@@ -32,5 +32,5 @@ bool solve(int num) {
 class Solution:
     def solve(self, num):
         return str(num)==str(num)[::-1]
-// Lianz_lit
+# Lianz_lit
 ```
