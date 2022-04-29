@@ -25,9 +25,9 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-883 | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) | [Cpp/Python](./leetcode/lc_883.md) | # Easy | Tue 26 Apr 2022 |
 | BS-16 | [3-6-9](https://binarysearch.com/problems/3-6-9) | [Cpp/Python](./binarysearch/bs_16.md) | # Easy | Wed 27 Apr 2022 |
 | LC-417 | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | [Cpp/Python](./leetcode/lc_417.md) | #Medium | Wed 27 Apr 2022 |
-| BS-18 | [Run-Length Encoding](https://binarysearch.com/problems/Run-Length-Encoding) | [Cpp](./binarysearch/bs_18.md) | # Easy | Thu 28 Apr 2022 |
-| LC-905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | [Cpp](./leetcode/lc_905.md) | # Easy | Thu 28 Apr 2022 |
-| BS-19 | [Strictly Increasing or Strictly Decreasing](https://binarysearch.com/problems/Strictly-Increasing-or-Strictly-Decreasing) | [Cpp](./binarysearch/bs_19.md) | # Easy | Fri 29 Apr 2022 |
+| BS-18 | [Run-Length Encoding](https://binarysearch.com/problems/Run-Length-Encoding) | [Cpp/Python](./binarysearch/bs_18.md) | # Easy | Thu 28 Apr 2022 |
+| LC-905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | [Cpp/Python](./leetcode/lc_905.md) | # Easy | Thu 28 Apr 2022 |
+| BS-19 | [Strictly Increasing or Strictly Decreasing](https://binarysearch.com/problems/Strictly-Increasing-or-Strictly-Decreasing) | [Cpp/Python](./binarysearch/bs_19.md) | # Easy | Fri 29 Apr 2022 |
 | LC-427 | [建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/) | [Cpp](./leetcode/lc_427.md) | # Medium | Fri 29 Apr 2022 |
 | BS-20| [Largest Number By Two Times](https://binarysearch.com/problems/Largest-Number-By-Two-Times) |  | # Easy | Sat 30 Apr 2022 |
 | LC-908 | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/) |  | # Easy | Sat 30 Apr 2022|
