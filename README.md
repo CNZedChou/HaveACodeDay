@@ -27,8 +27,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-417 | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | [Cpp/Python](./leetcode/lc_417.md) | #Medium | Wed 27 Apr 2022 |
 | BS-18 | [Run-Length Encoding](https://binarysearch.com/problems/Run-Length-Encoding) | [Cpp](./binarysearch/bs_18.md) | # Easy | Thu 28 Apr 2022 |
 | LC-905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | [Cpp](./leetcode/lc_905.md) | # Easy | Thu 28 Apr 2022 |
-| BS-19 | [Strictly Increasing or Strictly Decreasing](https://binarysearch.com/problems/Strictly-Increasing-or-Strictly-Decreasing) |  | # Easy | Fri 29 Apr 2022 |
-| LC-427 | [建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/) |  | # Medium | Fri 28 Apr 2022 |
+| BS-19 | [Strictly Increasing or Strictly Decreasing](https://binarysearch.com/problems/Strictly-Increasing-or-Strictly-Decreasing) | [Cpp](./binarysearch/bs_19.md) | # Easy | Fri 29 Apr 2022 |
+| LC-427 | [建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/) | [Cpp](./leetcode/lc_427.md) | # Medium | Fri 28 Apr 2022 |
 
 <span id="weekroom"></span>
 
@@ -45,6 +45,6 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify：Fri 29 Apr 2022 12:16:38 AM CST
+> Last Modify：Fri 29 Apr 2022 08:18:45 AM CST
 
 
