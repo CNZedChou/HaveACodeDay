@@ -41,5 +41,5 @@ class Solution:
             else:
                 dic[ans] = i
         return False        
-// Lianz_lit
+# Lianz_lit
 ```
