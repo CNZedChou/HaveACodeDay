@@ -28,7 +28,10 @@ Consider an angle. At the point the lines originate the distance between them is
 | BS-18 | [Run-Length Encoding](https://binarysearch.com/problems/Run-Length-Encoding) | [Cpp](./binarysearch/bs_18.md) | # Easy | Thu 28 Apr 2022 |
 | LC-905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | [Cpp](./leetcode/lc_905.md) | # Easy | Thu 28 Apr 2022 |
 | BS-19 | [Strictly Increasing or Strictly Decreasing](https://binarysearch.com/problems/Strictly-Increasing-or-Strictly-Decreasing) | [Cpp](./binarysearch/bs_19.md) | # Easy | Fri 29 Apr 2022 |
-| LC-427 | [建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/) | [Cpp](./leetcode/lc_427.md) | # Medium | Fri 28 Apr 2022 |
+| LC-427 | [建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/) | [Cpp](./leetcode/lc_427.md) | # Medium | Fri 29 Apr 2022 |
+| BS-20| [Largest Number By Two Times](https://binarysearch.com/problems/Largest-Number-By-Two-Times) |  | # Easy | Sat 30 Apr 2022 |
+| LC-908 | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/) |  | # Easy | Sat 30 Apr 2022|
+
 
 <span id="weekroom"></span>
 
@@ -45,6 +48,6 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify：Fri 29 Apr 2022 08:18:45 AM CST
+> Last Modify：Sat 30 Apr 2022 12:02:43 AM CST
 
 
