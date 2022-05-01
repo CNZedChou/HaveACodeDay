@@ -17,9 +17,9 @@ Consider an angle. At the point the lines originate the distance between them is
 
 <span id="problem"></span>
 
-| ID   |                         Description                          | Solution | Tag  | Date            |
+| ID   |                         Description                          | Solution | Level  | Date            |
 | ---- | :----------------------------------------------------------: | :------: | :--- | --------------- |
-| BS-1 | [Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers) | [Cpp/Python](./binarysearch/bs_1.md) | # Easy # HashTable | Mon 25 Apr 2022 |
+| BS-1 | [Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers) | [Cpp/Python](./binarysearch/bs_1.md) | # Easy | Mon 25 Apr 2022 |
 | LC-398 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/) | [Cpp/Python](./leetcode/lc_398.md) | # Medium | Mon 25 Apr 2022 |
 | BS-5 | [Palindromic Integer](https://binarysearch.com/problems/Palindromic-Integer) | [Cpp/Python](./binarysearch/bs_5.md) | # Easy | Tue 26 Apr 2022 |
 | LC-883 | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) | [Cpp/Python](./leetcode/lc_883.md) | # Easy | Tue 26 Apr 2022 |
@@ -31,8 +31,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-427 | [建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/) | [Cpp](./leetcode/lc_427.md) | # Medium | Fri 29 Apr 2022 |
 | BS-20| [Largest Number By Two Times](https://binarysearch.com/problems/Largest-Number-By-Two-Times) | [Cpp](./binarysearch/bs_20.md) | # Easy | Sat 30 Apr 2022 |
 | LC-908 | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/) | [Cpp](./leetcode/lc_908.md) | # Easy | Sat 30 Apr 2022|
-| BS-24 | [Generate Primes](https://binarysearch.com/problems/Generate-Primes) |  | # Easy | Sun 01 May 2022 |
-| LC-1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) |  | # Medium | Sun 01 May 2022 |
+| BS-24 | [Generate Primes](https://binarysearch.com/problems/Generate-Primes) | [Cpp](./binarysearch/bs_24.md) | # Easy | Sun 01 May 2022 |
+| LC-1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) | [Cpp](./leetcode/lc_1305.md) | # Medium | Sun 01 May 2022 |
 
 <span id="weekroom"></span>
 
@@ -49,6 +49,6 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Sun 01 May 2022 11:22:43 AM CST
+> Last Modify: Sun 01 May 2022 03:35:55 PM CST
 
 
