@@ -31,7 +31,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-427 | [建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/) | [Cpp](./leetcode/lc_427.md) | # Medium | Fri 29 Apr 2022 |
 | BS-20| [Largest Number By Two Times](https://binarysearch.com/problems/Largest-Number-By-Two-Times) | [Cpp](./binarysearch/bs_20.md) | # Easy | Sat 30 Apr 2022 |
 | LC-908 | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/) | [Cpp](./leetcode/lc_908.md) | # Easy | Sat 30 Apr 2022|
-
+| BS-24 | [Generate Primes](https://binarysearch.com/problems/Generate-Primes) |  | # Easy | Sun 01 May 2022 |
+| LC-1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) |  | # Medium | Sun 01 May 2022 |
 
 <span id="weekroom"></span>
 
@@ -48,6 +49,6 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify：Sat 30 Apr 2022 12:02:43 AM CST
+> Last Modify: Sun 01 May 2022 11:22:43 AM CST
 
 
