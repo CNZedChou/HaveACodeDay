@@ -33,8 +33,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-908 | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/) | [Cpp/Python](./leetcode/lc_908.md) | # Easy | Sat 30 Apr 2022|
 | BS-24 | [Generate Primes](https://binarysearch.com/problems/Generate-Primes) | [Cpp/Python](./binarysearch/bs_24.md) | # Easy | Sun 01 May 2022 |
 | LC-1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) | [Cpp](./leetcode/lc_1305.md) | # Medium | Sun 01 May 2022 |
-| BS-28 | [A Unique String](https://binarysearch.com/problems/A-Unique-String) |  | # Easy | Mon 02 May 2022 |
-| LC-591 | [标签验证器](https://leetcode-cn.com/problems/tag-validator/) |  | # Hard | Mon 02 May |
+| BS-28 | [A Unique String](https://binarysearch.com/problems/A-Unique-String) | [Cpp](./binarysearch/bs_28.md) | # Easy | Mon 02 May 2022 |
+| LC-591 | [标签验证器](https://leetcode-cn.com/problems/tag-validator/) | [Cpp](./leetcode/lc_591.md) | # Hard | Mon 02 May |
 
 
 <span id="weekroom"></span>
@@ -52,6 +52,6 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Mon 02 May 2022 05:42:41 PM CST
+> Last Modify: Mon 02 May 2022 09:56:17 PM CST
 
 
