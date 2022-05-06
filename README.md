@@ -41,6 +41,9 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/) | [Cpp](./leetcode/lc_1823.md) | # Medium | Wed 04 May 2022 |
 | BS-39 | [Length of a Linked List](https://binarysearch.com/problems/Length-of-a-Linked-List) | [Cpp](./binarysearch/bs_39.md) | # Easy | Thu 05 May 2022 | 
 | LC-713 | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/) | [Cpp](./leetcode/lc_713.md) | # Medium | Thu 05 May 2022 |
+| BS-61 | [Recurring Character](https://binarysearch.com/problems/Recurring-Character) | [cPP](./binarysearch/bs_61.md) | # Easy | Fri 06 May 2022 |
+| LC-933 | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/) | [Cpp](./leetcode/lc_933.md) | # Easy | Fri 06 May 2022 |
+
 
 <span id="weekroom"></span>
 
@@ -57,7 +60,7 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Thu 05 May 2022 08:12:59 AM CST
+> Last Modify: Fri 06 May 2022 11:27:41 PM CST
 
 
 
