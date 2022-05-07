@@ -43,8 +43,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-713 | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/) | [Cpp](./leetcode/lc_713.md) | # Medium | Thu 05 May 2022 |
 | BS-61 | [Recurring Character](https://binarysearch.com/problems/Recurring-Character) | [Cpp](./binarysearch/bs_61.md) | # Easy | Fri 06 May 2022 |
 | LC-933 | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/) | [Cpp](./leetcode/lc_933.md) | # Easy | Fri 06 May 2022 |
-| BS-79 | [Merging Two Sorted Lists](https://binarysearch.com/problems/Merging-Two-Sorted-Lists) |  | # Easy | Sat 07 May 2022 |
-| LC-433 | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/) |  | # Medium | Sat 07 May 2022 | 
+| BS-79 | [Merging Two Sorted Lists](https://binarysearch.com/problems/Merging-Two-Sorted-Lists) | [Cpp](./binarysearch/bs_79.md) | # Easy | Sat 07 May 2022 |
+| LC-433 | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/) | [Cpp](./leetcode/lc_433.md) | # Medium | Sat 07 May 2022 | 
 
 <span id="weekroom"></span>
 
