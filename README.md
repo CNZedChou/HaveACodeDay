@@ -35,8 +35,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) | [Cpp/Python](./leetcode/lc_1305.md) | # Medium | Sun 01 May 2022 |
 | BS-28 | [A Unique String](https://binarysearch.com/problems/A-Unique-String) | [Cpp/Python](./binarysearch/bs_28.md) | # Easy | Mon 02 May 2022 |
 | LC-591 | [标签验证器](https://leetcode-cn.com/problems/tag-validator/) | [Cpp](./leetcode/lc_591.md) | # Hard | Mon 02 May 2022 |
-| BS-29 | [Compress String](https://binarysearch.com/problems/Compress-String) | [Cpp](./binarysearch/bs_29.md) | # Easy | Tue 03 May 2022 |
-| LC-937 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [Cpp](./leetcode/lc_937.md) | # Easy | Tue 03 May 2022 |
+| BS-29 | [Compress String](https://binarysearch.com/problems/Compress-String) | [Cpp/Python](./binarysearch/bs_29.md) | # Easy | Tue 03 May 2022 |
+| LC-937 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [Cpp/Python](./leetcode/lc_937.md) | # Easy | Tue 03 May 2022 |
 | BS-30 | [Rotation of Another String](https://binarysearch.com/problems/Rotation-of-Another-String) | [Cpp](./binarysearch/bs_30.md) | # Easy | Wed 04 May 2022 |
 | LC-1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/) | [Cpp](./leetcode/lc_1823.md) | # Medium | Wed 04 May 2022 |
 | BS-39 | [Length of a Linked List](https://binarysearch.com/problems/Length-of-a-Linked-List) | [Cpp](./binarysearch/bs_39.md) | # Easy | Thu 05 May 2022 | 
