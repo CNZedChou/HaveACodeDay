@@ -32,8 +32,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | BS-20| [Largest Number By Two Times](https://binarysearch.com/problems/Largest-Number-By-Two-Times) | [Cpp/Python](./binarysearch/bs_20.md) | # Easy | Sat 30 Apr 2022 |
 | LC-908 | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/) | [Cpp/Python](./leetcode/lc_908.md) | # Easy | Sat 30 Apr 2022|
 | BS-24 | [Generate Primes](https://binarysearch.com/problems/Generate-Primes) | [Cpp/Python](./binarysearch/bs_24.md) | # Easy | Sun 01 May 2022 |
-| LC-1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) | [Cpp](./leetcode/lc_1305.md) | # Medium | Sun 01 May 2022 |
-| BS-28 | [A Unique String](https://binarysearch.com/problems/A-Unique-String) | [Cpp](./binarysearch/bs_28.md) | # Easy | Mon 02 May 2022 |
+| LC-1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) | [Cpp/Python](./leetcode/lc_1305.md) | # Medium | Sun 01 May 2022 |
+| BS-28 | [A Unique String](https://binarysearch.com/problems/A-Unique-String) | [Cpp/Python](./binarysearch/bs_28.md) | # Easy | Mon 02 May 2022 |
 | LC-591 | [标签验证器](https://leetcode-cn.com/problems/tag-validator/) | [Cpp](./leetcode/lc_591.md) | # Hard | Mon 02 May 2022 |
 | BS-29 | [Compress String](https://binarysearch.com/problems/Compress-String) | [Cpp](./binarysearch/bs_29.md) | # Easy | Tue 03 May 2022 |
 | LC-937 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [Cpp](./leetcode/lc_937.md) | # Easy | Tue 03 May 2022 |
@@ -46,7 +46,7 @@ Consider an angle. At the point the lines originate the distance between them is
 | BS-79 | [Merging Two Sorted Lists](https://binarysearch.com/problems/Merging-Two-Sorted-Lists) | [Cpp](./binarysearch/bs_79.md) | # Easy | Sat 07 May 2022 |
 | LC-433 | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/) | [Cpp](./leetcode/lc_433.md) | # Medium | Sat 07 May 2022 | 
 | BS-97 | [Check Palindrome](https://binarysearch.com/problems/Check-Palindrome) | [Cpp](./binarysearch/bs_97.md) | # Easy | Sun 08 May 2022 |
-| LC-442 | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | [Cpp](./leetcode/lc_442.md) | # Medium | Sun 07 May 2022 |
+| LC-442 | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | [Cpp](./leetcode/lc_442.md) | # Medium | Sun 08 May 2022 |
 | BS-107 | [Check Power of Two](https://binarysearch.com/problems/Check-Power-of-Two) | [Cpp](./binarysearch/bs_107.md) | # Easy | Mon 09 May 2022 |
 | LC-942 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [Cpp](./leetcode/lc_942.md) | # Easy | Mon 09 May 2022 |
 
