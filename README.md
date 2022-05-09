@@ -47,8 +47,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-433 | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/) | [Cpp](./leetcode/lc_433.md) | # Medium | Sat 07 May 2022 | 
 | BS-97 | [Check Palindrome](https://binarysearch.com/problems/Check-Palindrome) | [Cpp](./binarysearch/bs_97.md) | # Easy | Sun 08 May 2022 |
 | LC-442 | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | [Cpp](./leetcode/lc_442.md) | # Medium | Sun 07 May 2022 |
-| BS-107 | [Check Power of Two](https://binarysearch.com/problems/Check-Power-of-Two) |  | # Easy | Mon 09 May 2022 |
-| LC-942 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) |  | # Easy | Mon 09 May 2022 |
+| BS-107 | [Check Power of Two](https://binarysearch.com/problems/Check-Power-of-Two) | [Cpp](./binarysearch/bs_107.md) | # Easy | Mon 09 May 2022 |
+| LC-942 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [Cpp](./leetcode/lc_942.md) | # Easy | Mon 09 May 2022 |
 
 
 <span id="weekroom"></span>
@@ -66,7 +66,7 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Mon 09 May 2022 12:10:45 AM CST
+> Last Modify: Mon 09 May 2022 08:30:31 AM CST
 
 
 
