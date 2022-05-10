@@ -49,6 +49,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-442 | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | [Cpp](./leetcode/lc_442.md) | # Medium | Sun 08 May 2022 |
 | BS-107 | [Check Power of Two](https://binarysearch.com/problems/Check-Power-of-Two) | [Cpp](./binarysearch/bs_107.md) | # Easy | Mon 09 May 2022 |
 | LC-942 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [Cpp](./leetcode/lc_942.md) | # Easy | Mon 09 May 2022 |
+| BS-57 | [Wolf of Wall Street](https://binarysearch.com/problems/Wolf-of-Wall-Street) |  | # Easy | Tue 10 May 2022 |
+| LC-1728 | [猫和老鼠 II](https://leetcode.cn/problems/cat-and-mouse-ii/) |  | # Hard | Tue 10 May 2022 |
 
 
 <span id="weekroom"></span>
@@ -66,7 +68,7 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Mon 09 May 2022 08:30:31 AM CST
+> Last Modify: Tue 10 May 2022 08:51:06 AM CST
 
 
 
