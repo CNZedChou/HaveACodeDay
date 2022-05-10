@@ -53,6 +53,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-942 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [Cpp](./leetcode/lc_942.md) | # Easy | Mon 09 May 2022 |
 | BS-57 | [Wolf of Wall Street](https://binarysearch.com/problems/Wolf-of-Wall-Street) | [Cpp](./binarysearch/bs_57.md) | # Easy | Tue 10 May 2022 |
 | LC-1728 | [猫和老鼠 II](https://leetcode.cn/problems/cat-and-mouse-ii/) |  | # Hard | Tue 10 May 2022 |
+| BS-85 | [Sum of the Digits](https://binarysearch.com/problems/Sum-of-the-Digits) |  | # Easy | Wed 11 May 2022 |
+| LC-499 | [序列化和反序列化二叉搜索树](https://leetcode.cn/problems/serialize-and-deserialize-bst/) |  | # Medium | Wed 11 May 2022 |
 
 <span id="latest"></span>
 <span id="offer"></span>
@@ -77,7 +79,7 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Tue 10 May 2022 08:51:06 AM CST
+> Last Modify: Wed 11 May 2022 12:05:14 AM CST
 
 
 
