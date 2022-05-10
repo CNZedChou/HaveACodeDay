@@ -11,6 +11,8 @@ Consider an angle. At the point the lines originate the distance between them is
 
 📋 [Problems Table](#problem)
 
+🗡️ [剑指Offer](#offer)
+
 🧾 [Week Room](#weekroom)
 
 ⚙️ [Tools Instructions](#tools)
@@ -52,6 +54,12 @@ Consider an angle. At the point the lines originate the distance between them is
 | BS-57 | [Wolf of Wall Street](https://binarysearch.com/problems/Wolf-of-Wall-Street) | [Cpp](./binarysearch/bs_57.md) | # Easy | Tue 10 May 2022 |
 | LC-1728 | [猫和老鼠 II](https://leetcode.cn/problems/cat-and-mouse-ii/) |  | # Hard | Tue 10 May 2022 |
 
+<span id="offer"></span>
+
+| ID   |                         Description                          | Solution | Level  | Date            |
+| ---- | :----------------------------------------------------------: | :------: | :--- | --------------- |
+| Offer-03 | [剑指 Offer 03. 数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) |  | # Easy | Tue 10 May 2022 |
+| Offer-04 | [剑指 Offer 04. 二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) |  | # Medium | Tue 10 May 2022 |
 
 <span id="weekroom"></span>
 
