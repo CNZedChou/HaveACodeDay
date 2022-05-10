@@ -9,7 +9,7 @@ Consider an angle. At the point the lines originate the distance between them is
 
 🔖 [Template](template.md) document for Problems and Solutions
 
-📋 [Problems Table](#problem)
+📋 [Problems Table](#problem)   [Click to Jump To the Latest](#latest)
 
 🗡️ [剑指Offer](#offer)
 
@@ -54,6 +54,7 @@ Consider an angle. At the point the lines originate the distance between them is
 | BS-57 | [Wolf of Wall Street](https://binarysearch.com/problems/Wolf-of-Wall-Street) | [Cpp](./binarysearch/bs_57.md) | # Easy | Tue 10 May 2022 |
 | LC-1728 | [猫和老鼠 II](https://leetcode.cn/problems/cat-and-mouse-ii/) |  | # Hard | Tue 10 May 2022 |
 
+<span id="latest"></span>
 <span id="offer"></span>
 
 | ID   |                         Description                          | Solution | Level  | Date            |
