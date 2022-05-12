@@ -55,6 +55,9 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-1728 | [猫和老鼠 II](https://leetcode.cn/problems/cat-and-mouse-ii/) |  | # Hard | Tue 10 May 2022 |
 | BS-85 | [Sum of the Digits](https://binarysearch.com/problems/Sum-of-the-Digits) | [Cpp](./binarysearch/bs_85.md) | # Easy | Wed 11 May 2022 |
 | LC-499 | [序列化和反序列化二叉搜索树](https://leetcode.cn/problems/serialize-and-deserialize-bst/) | [Cpp](./leetcode/lc_449.md) | # Medium | Wed 11 May 2022 |
+| BS-93 | [A Strictly Increasing Linked List](https://binarysearch.com/problems/A-Strictly-Increasing-Linked-List) | [Cpp](./binarysearch/bs_93.md) | # Easy | Thu 12 May 2022 |
+| LC-944 | [删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted/) | [Cpp](./leetcode/lc_944.md) | # Easy | Thu 12 May 2022 | 
+
 
 <span id="latest"></span>
 <span id="offer"></span>
@@ -79,7 +82,7 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Wed 11 May 2022 08:30:28 AM CST
+> Last Modify: Thu 12 May 2022 09:47:10 AM CST
 
 
 
