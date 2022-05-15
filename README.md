@@ -61,6 +61,9 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-01.05 | [一次编辑](https://leetcode.cn/problems/one-away-lcci/) | [Cpp](./leetcode/lc_0105.md) | # Medium | Fri 13 May 2022 |  
 | BS-96 | [Interleaved String](https://binarysearch.com/problems/Interleaved-String) | [Cpp](./binarysearch/bs_96.md) | # Easy | Sat 14 May 2022 |
 | LC-691 | [贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/) |  | # Hard | Sat 14 May 2022 |
+| BS-102 | [Longest Consecutive Duplicate String](https://binarysearch.com/problems/Longest-Consecutive-Duplicate-String) | [Cpp](./binarysearch/bs_102.md) | # Easy | Sun 15 May 2022 |
+| LC-812 | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/) | [Cpp](./leetcode/lc_812.md) | # Easy | Sun 15 May 2022 | 
+
 
 <span id="latest"></span>
 <span id="offer"></span>
@@ -85,7 +88,7 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Sat 14 May 2022 01:47:45 PM CST
+> Last Modify: Sun 15 May 2022 02:32:24 PM CST
 
 
 
