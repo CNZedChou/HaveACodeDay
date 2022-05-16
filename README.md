@@ -63,7 +63,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-691 | [贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/) |  | # Hard | Sat 14 May 2022 |
 | BS-102 | [Longest Consecutive Duplicate String](https://binarysearch.com/problems/Longest-Consecutive-Duplicate-String) | [Cpp](./binarysearch/bs_102.md) | # Easy | Sun 15 May 2022 |
 | LC-812 | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/) | [Cpp](./leetcode/lc_812.md) | # Easy | Sun 15 May 2022 | 
-
+| BS-121 | [Repeated Addition](https://binarysearch.com/problems/Repeated-Addition) | [Cpp](./binarysearch/bs_121.md) | # Easy | Mon 16 May 2022 |
+| LC-0406 | [后继者](https://leetcode.cn/problems/successor-lcci/) | [Cpp](./leetcode/lc_0406.md) | # Medium | Mon 16 May 2022 | 
 
 <span id="latest"></span>
 <span id="offer"></span>
