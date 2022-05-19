@@ -69,7 +69,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-953 | [验证外星语词典](https://leetcode.cn/problems/verifying-an-alien-dictionary/) | [Cpp](./leetcode/lc_953.md) | # Easy | Tue 17 May 2022 |
 | BS-98 |[Anagram Checks](https://binarysearch.com/problems/Anagram-Checks) | [Cpp](./binarysearch/bs_98.md) | # Easy | Wed 18 May 2022 |
 | LC-668 | [乘法表中第k小的数](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/) | [Cpp](./leetcode/lc_668.md) | # Hard | Wed 18 May 2022 |
-
+| BS-135 | [Transpose of a Matrix](https://binarysearch.com/problems/Transpose-of-a-Matrix) | [Cpp](./binarysearch/bs_135.md) | # Easy | Thu 19 May 2022 |
+| LC-462 | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/) | [Cpp](./leetcode/lc_462.md) | # Medium | Thu 19 May 2022 |
 
 
 <span id="latest"></span>
@@ -95,4 +96,4 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Wed 18 May 2022 09:32:41 AM CST
+> Last Modify: Thu 19 May 2022 10:16:33 AM CST
