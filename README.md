@@ -73,6 +73,9 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-462 | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/) | [Cpp](./leetcode/lc_462.md) | # Medium | Thu 19 May 2022 |
 | BS-146 | [Unix Path Resolution](https://binarysearch.com/problems/Unix-Path-Resolution) | [Cpp](./binarysearch/bs_146.md) | # Easy | Fri 20 May 2022 |
 | LC-436 | [寻找右区间](https://leetcode.cn/problems/find-right-interval/) | [Cpp](./leetcode/lc_436.md) | # Medium | Fri 20 May 2022 |
+| BS-139 | [Consecutive Duplicates](https://binarysearch.com/problems/Consecutive-Duplicates) | [Cpp](./binarysearch/bs_139.md) | # Easy | Sat 21 May 2022 |
+| LC-961 | [在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/) | [Cpp](./leetcode/lc_961.md) | # Easy | Sat 21 May 2022 |
+
 
 <span id="latest"></span>
 <span id="offer"></span>
@@ -97,4 +100,4 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Fri 20 May 2022 10:51:38 PM CST
+> Last Modify: Sat 21 May 2022 08:30:02 AM CST
