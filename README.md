@@ -76,8 +76,9 @@ Consider an angle. At the point the lines originate the distance between them is
 | BS-139 | [Consecutive Duplicates](https://binarysearch.com/problems/Consecutive-Duplicates) | [Cpp](./binarysearch/bs_139.md) | # Easy | Sat 21 May 2022 |
 | LC-961 | [在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/) | [Cpp](./leetcode/lc_961.md) | # Easy | Sat 21 May 2022 |
 | BS-147| [Linked List to Integer](https://binarysearch.com/problems/Linked-List-to-Integer) | [Cpp](./binarysearch/bs_147.md) | # Easy | Sun 22 May 2022 |
-|LC-464 | [我能赢吗](https://leetcode.cn/problems/can-i-win/) | [Cpp](./leetcode/lc_464.md) | # Medium | Sun 22 May 2022 |
-
+| LC-464 | [我能赢吗](https://leetcode.cn/problems/can-i-win/) | [Cpp](./leetcode/lc_464.md) | # Medium | Sun 22 May 2022 |
+| BS-60 | [Square of a List](https://binarysearch.com/problems/Square-of-a-List) | [Cpp](./binarysearch/bs_60.md) | # Easy | Mon 23 May 2022 |
+| LC-675 | [为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/) | [Cpp](./leetcode/lc_675.md) | # Hard | Mon 23 May 2022 |
 
 <span id="latest"></span>
 <span id="offer"></span>
@@ -102,4 +103,4 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Sun 22 May 2022 09:07:07 AM CST
+> Last Modify: Mon 23 May 2022 09:25:02 PM CST
