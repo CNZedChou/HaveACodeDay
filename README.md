@@ -83,7 +83,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-965 | [单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/) | [Cpp](./leetcode/lc_965.md) | # Easy | Tue 24 May 2022 |
 | BS-55 | [Nth Fibonacci Number](https://binarysearch.com/problems/Nth-Fibonacci-Number) | [Cpp](./binarysearch/bs_55.md) | # Easy | Wed 25 May 2022 |
 | LC-467 | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | [Cpp](./leetcode/lc_467.md) | # Medium | Wed 25 May 2022 |
-
+| BS-233 | [Roomba](https://binarysearch.com/problems/Roomba) | [Cpp](./binarysearch/bs_233.md) | # Easy | Thu 26 May 2022 |
+| LC-699 | [掉落的方块](https://leetcode.cn/problems/falling-squares/) |  | # Hard | Thu 26 May 2022 |
 
 <span id="latest"></span>
 <span id="offer"></span>
@@ -108,4 +109,4 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Wed 25 May 2022 09:39:31 AM CST
+> Last Modify: Thu 26 May 2022 10:46:52 PM CST
