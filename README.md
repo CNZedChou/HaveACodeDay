@@ -87,6 +87,8 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-699 | [掉落的方块](https://leetcode.cn/problems/falling-squares/) |  | # Hard | Thu 26 May 2022 |
 | BS-109 | [List Min Replacement](https://binarysearch.com/problems/List-Min-Replacement) | [Cpp](./binarysearch/bs_109.md) | # Easy | Fri 27 May 2022 |
 | LC-01711 | [单词距离](https://leetcode.cn/problems/find-closest-lcci/) | [Cpp](./leetcode/lc_01711.md) | # Medium | Fri 27 May 2022 |
+| BS-100 | [Max Product of Two Numbers](https://binarysearch.com/problems/Max-Product-of-Two-Numbers) | [Cpp](./binarysearch/bs_100.md) | # Easy | Sat 28 May 2022 |
+| LC-1021 | [删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/) | [Cpp](./leetcode/lc_1021.md) | # Easy | Sat 28 May 2022 |
 
 
 <span id="latest"></span>
