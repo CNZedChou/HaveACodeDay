@@ -91,7 +91,20 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-1021 | [删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/) | [Cpp](./leetcode/lc_1021.md) | # Easy | Sat 28 May 2022 |
 | BS-124 | [Pascal's Triangle](https://binarysearch.com/problems/Pascal's-Triangle) | [Cpp](./binarysearch/bs_124.md) | # Easy | Sun 29 May 2022 |
 | LC-468 | [验证IP地址](https://leetcode.cn/problems/validate-ip-address/) | [Cpp](./leetcode/lc_468.md) | # Medium | Sun 29 May 2022 |
-
+| BS-133 | [Collatz Sequence](https://binarysearch.com/problems/Collatz-Sequence) | [Cpp](./binarysearch/bs_133.md) | # Easy | Mon 30 May 2022 |
+| LC-1022 | [从根到叶的二进制数之和](https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/) | [Cpp](./leetcode/lc_1022.md) | # Easy | Mon 30 May 2022 |
+| BS-137 | [Integer to Base 3](https://binarysearch.com/problems/Integer-to-Base-3) | [Cpp](./binaryserach/bs_137.md) | # Easy | Tue 31 May 2022 |
+| lc-JZ114 | [外星文字典](https://leetcode.cn/problems/Jf1JuT/) |  | # Hard | Tue 31 May 2022 |
+| BS-141 | [Toeplitz Matrix](https://binarysearch.com/problems/Toeplitz-Matrix) | [Cpp](./binaryserach/bs_141.md) | # Easy | Wed 01 Jun 2022 |
+| LC-473 | [火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/) | [Cpp](./leetcode/lc_473.md) | # Medium | Wed 01 Jun 2022 |
+| BS-151 | [Hamming Distance](https://binarysearch.com/problems/Hamming-Distance) | [Cpp](./binarysearch/bs_151.md) | # Easy | Thu 02 Jun 2022 |
+| LC-450 | [删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst/) |  | # Medium | Thu 02 Jun 2022 |
+| BS-153 | [Sorted Elements](https://binarysearch.com/problems/Sorted-Elements) | [Cpp](./binarysearch/bs_151.md) | # Easy | Fri 03 Jun 2022 |
+| LC-829 | [连续整数求和](https://leetcode.cn/problems/consecutive-numbers-sum/) | [Cpp](./leetcode/lc_829.md) | # Hard | Fri 03 Jun 2022 |
+| BS-156 | [Column Sort](https://binarysearch.com/problems/Column-Sort) | [Cpp](./binarysearch/bs_156.md) | # Easy | Sat 04 Jun 2022 |
+| LC-929 | [独特的电子邮件地址](https://leetcode.cn/problems/unique-email-addresses/) | [Cpp](./leetcode/lc_929.md) | # Easy | Sat 04 Jun 2022 |
+| BS-171 | [Reverse Words](https://binarysearch.com/problems/Reverse-Words) | [Cpp](./binarysearch/bs_171.md) | # Easy | Sun 05 Jun 2022 |
+| LC-478 | [在圆内随机生成点](https://leetcode.cn/problems/generate-random-point-in-a-circle/) | [Cpp](./leetcode/lc_478.md) | # Medium | Sun 05 Jun 2022 | 
 
 <span id="latest"></span>
 <span id="offer"></span>
@@ -116,4 +129,4 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Fri 27 May 2022 09:30:56 AM CST
+> Last Modify: Sun 05 Jun 2022 04:53:43 PM CST
