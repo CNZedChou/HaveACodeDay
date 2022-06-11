@@ -115,6 +115,9 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-497 | [非重叠矩形中的随机点](https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/) | [Cpp](./leetcode/lc_497.md) | # Medium | Thu 09 Jun 2022 |
 | BS-195 | [Seat Arrangement](https://binarysearch.com/problems/Seat-Arrangement) | [Cpp](./binarysearch/bs_195.md) | # Easy | Fri 10 Jun 2022 |
 | LC-730 | [统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/) |  | # Hard | Fri 10 Jun 2022 |
+| BS-215 | [Happy Numbers](https://binarysearch.com/problems/Happy-Numbers) | [Cpp](./binarysearch/bs_215.md) | # Easy | Sat 11 Jun 2022 |
+| LC-926 | [将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/) | [Cpp](./leetcode/lc_926.md) | # Medium | Sat 11 Jun 2022 |
+
 
 <span id="latest"></span>
 <span id="offer"></span>
@@ -139,4 +142,4 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Fri 10 Jun 2022 01:21:54 PM CST
+> Last Modify: Sat 11 Jun 2022 03:02:07 PM CST
