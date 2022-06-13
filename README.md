@@ -117,6 +117,10 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-730 | [统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/) |  | # Hard | Fri 10 Jun 2022 |
 | BS-215 | [Happy Numbers](https://binarysearch.com/problems/Happy-Numbers) | [Cpp](./binarysearch/bs_215.md) | # Easy | Sat 11 Jun 2022 |
 | LC-926 | [将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/) | [Cpp](./leetcode/lc_926.md) | # Medium | Sat 11 Jun 2022 |
+| BS-224 | [Pythagorean Triplets](https://binarysearch.com/problems/Pythagorean-Triplets) | [Cpp](./binarysearch/bs_224.md) | # Easy | Sun 12 Jun 2022 |
+| LC-890 | [查找和替换模式](https://leetcode.cn/problems/find-and-replace-pattern/) | [Cpp](./leetcode/lc_890.md) | # Medium | Sun 12 Jun 2022 |
+| BS-256 | [Common Words](https://binarysearch.com/problems/Common-Words) | [Cpp](./binarysearch/bs_256.md) | # Easy | Mon 13 Jun 2022 |
+| LC-1051 | [高度检查器](https://leetcode.cn/problems/height-checker/) | [Cpp](./leetcode/lc_1051.md) | # Easy | Mon 13 Jun 2022 |
 
 
 <span id="latest"></span>
@@ -142,4 +146,4 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Sat 11 Jun 2022 03:02:07 PM CST
+> Last Modify: Mon 13 Jun 2022 03:50:03 PM CST
