@@ -123,7 +123,12 @@ Consider an angle. At the point the lines originate the distance between them is
 | LC-1051 | [高度检查器](https://leetcode.cn/problems/height-checker/) | [Cpp](./leetcode/lc_1051.md) | # Easy | Mon 13 Jun 2022 |
 | BS-273 | [A Number and Its Triple](https://binarysearch.com/problems/A-Number-and-Its-Triple) | [Cpp](./binarysearch/bs_273.md) | # Easy | Tue 14 Jun 2022 |
 | LC-498 | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/) | [Cpp](./leetcode/lc_4998.md) | # Medium | Tue 14 Jun 2022 |
-
+| BS-266 | [Buying Cars](https://binarysearch.com/problems/Buying-Cars) | [Cpp](./binarysearch/bs_266.md) | # Easy | Wed 15 Jun 2022 |
+| LC-719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) |  | # Hard | Wed 15 Jun 2022 |
+| BS-274 | [Equivalent Value and Frequency](https://binarysearch.com/problems/Equivalent-Value-and-Frequency) | [Cpp](./binarysearch/bs_274.md) | # Easy | Thu 16 Jun 2022 |
+| LC-532 | [数组中的 k-diff 数对](https://leetcode.cn/problems/k-diff-pairs-in-an-array/) | [Cpp](./leetcode/lc_532.md) | # Medium | Thu 16 Jun 2022 |
+| BS-279 | [String Isomorphism](https://binarysearch.com/problems/String-Isomorphism) | [Cpp](./binarysearch/bs_279.md) | # Easy | Fri 17 Jun 2022 |
+| LC-1089 | [复写零](https://leetcode.cn/problems/duplicate-zeros/) | [Cpp](./leetcode/lc_1089.md) | # Easy | Fri 17 Jun 2022 |
 
 <span id="latest"></span>
 <span id="offer"></span>
@@ -148,4 +153,4 @@ Consider an angle. At the point the lines originate the distance between them is
 
 
 
-> Last Modify: Tue 14 Jun 2022 01:36:26 PM CST
+> Last Modify: Fri 17 Jun 2022 02:18:41 PM CST
